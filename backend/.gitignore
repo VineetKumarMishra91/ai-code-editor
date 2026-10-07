@@ -1,0 +1,11 @@
+
+serviceAccountKey.json
+.env
+
+# Node.js Dependencies (Across all microservices)
+node_modules/
+npm-debug.log*
+
+# OS Files
+.DS_Store
+Thumbs.db
